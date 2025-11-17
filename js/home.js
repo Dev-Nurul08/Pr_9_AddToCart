@@ -15,7 +15,7 @@ const displayProduct = (data = products) => {
                 <i class="bi bi-basket display-1 text-muted"></i>
                 <h3 class="mt-3 text-muted">No Products Available</h3>
                 <p class="text-secondary">Please add products to get started!</p>
-                <a href="/register_product.html" class="btn btn-success mt-3">
+                <a href="/register.html" class="btn btn-success mt-3">
                     <i class="bi bi-plus-circle"></i> Add Your First Product
                 </a>
             </div>

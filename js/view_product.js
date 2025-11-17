@@ -13,7 +13,7 @@ const displayProduct = (data = products) => {
                 <td colspan="6" class="text-center py-5">
                     <i class="bi bi-inbox display-1 text-muted"></i>
                     <h5 class="mt-3 text-muted">No Products Found</h5>
-                    <a href="/register_product.html" class="btn btn-success mt-3">Add Product</a>
+                    <a href="/register.html" class="btn btn-success mt-3">Add Product</a>
                 </td>
             </tr>
         `;
